@@ -2,6 +2,9 @@
 
 I stuck to the standard beholder design. However, you can make tweaks if you want! I found [this cool tutorial](https://www.dndbeyond.com/compendium/cyclopedia/vgtm/beholders) for rolling to choose visual specifications of your beholder, if you want something random. I'll try to add comments on what you would tweak for those throughout, but I've only made the [standard myself](https://dnd.wizards.com/dungeons-and-dragons/what-is-dnd/monsters/monsters-beholder) - needle teeth, round iris, all eye stalks medium size/length/bulb, etc.
 
+![](./beholder/7.jpg)
+This tutorial explains how to make this little creature.
+
 ## Materials
 
 ### Yarns
@@ -46,6 +49,9 @@ As for the amount of rows, I have 30 crochet rows and 2 casting on and off. You 
 This is the pattern I used to learn how to make a sphere for the first time.
 
 > Note: I like to merge/split my stitches at the beginning of each set. It works better with the way I count in my head, but some people merge/split at the end. Just make a decision at the beginning, and stick to it for the whole sphere and you'll be fine.
+
+![](./beholder/1.jpg)
+This photo shows my dog helping me somewhere around R12 of building the body.
 
 |Row|Do|Ending Stitch Count|
 |-|-|-|
@@ -157,11 +163,17 @@ Last chance to make sure the filling is right! Get the firmness you want, the sh
 
 Try and line up a stitch from the outside of the mouth with a stitch on the body. You have 24 on the outside of each lip on on the body, and 24 on the outside of the mouth interior you made. I chose to stitch them together with black thread, again because black was used in the making of my body color. I suggest using whatever color matches your body, as opposed to prioritizing the mouth interior, because you can always stitch behind the teeth and nobody has to see what color you used if it doesn't match the mouth interior.
 
+![](./beholder/3.jpg)
+Here is what your beholder should look like with the mouth attached, and filling all done! In this photo I did the mouth before the main eye, which you should have on by now because I updated the instructions to have the eye go first.
+
 ## Eye Stalks
 
 ### Make the stalks
 
 First, pick bunch of eye colors! Do the following for each stalk
+
+![](./beholder/4.jpg)
+Here is my eyestalk collection, with the first one connected.
 
 |Row|Do|Ending Stitch Count|
 |-|-|-|
@@ -175,8 +187,14 @@ First, pick bunch of eye colors! Do the following for each stalk
 
 ### Attach the stalks
 
+![](./beholder/5.jpg)
+Starting to get a couple of eye stalks over here!
+
 Determine ahead of time where you will attach your eye stalks. I added 1 per crease from the decrease rounts, 1 in the center at the top, and 1 centered between each a bit farther down as well (ignoring the face area). It's up to you. Just sew them on, and use a color that blends with your body color.
 
 ## Why cast on 7 for all the eyes
 
 This choice is purely from trial and error, for the color blending. The amount of severed eyes I have in a bag at home is astounding! Because the eye color is only in the cast on, not an actual crocheted row, you have to keep that circle as tight as possible. I found that, via casting on 7 in the desired color, the 7th can be used to help with the color merging - see how in row 2 you use that 7th stitch as the eye-facing part of the last stitch in the first crocheted row? That's what this does. If you can pull it off, it'll still show 6 spikes of the eye color because you stitched 6 and 7 together.
+
+![](./beholder/6.jpg)
+Finished product, taken right before parting with it to gift to a friend. I miss the little sphere!
